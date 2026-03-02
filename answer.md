@@ -14,3 +14,5 @@ Ans:
 
 發生了合併衝突
 ![alt text](image-1.png)
+
+![alt text](image-2.png)
