@@ -11,3 +11,6 @@
 
 Ans: 
 ![alt text](image.png)
+
+發生了合併衝突
+![alt text](image-1.png)
